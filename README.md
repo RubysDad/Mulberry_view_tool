@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MulberryViewTool::Renderer.copyright 'Julia Valentine Arizona Properties', 'All rights reserved'
+```
 
 ## Development
 
